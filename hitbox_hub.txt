@@ -1,0 +1,23 @@
+nb_hitbox 21
+/*SCHEMA*/ (int)pos_x (int)pos_y (int)size_x (int)size_y
+hitbox 0 450 800 50
+hitbox 0 600 800 50
+hitbox 0 500 24 100
+hitbox 790 400 30 100
+hitbox 790 600 30 100
+hitbox 790 670 90 30
+hitbox 790 400 90 30
+hitbox 860 50 20 380
+hitbox 1037 50 20 380
+hitbox 860 670 20 400
+hitbox 1037 670 20 400
+hitbox 860 20 200 20
+hitbox 860 1070 200 20
+hitbox 1037 400 90 30
+hitbox 1100 400 30 100
+hitbox 1037 670 90 30
+hitbox 1100 600 30 100
+hitbox 1100 450 800 50
+hitbox 1100 600 800 50
+hitbox 1900 500 24 100
+hitbox 915 525 100 65

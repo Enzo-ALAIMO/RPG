@@ -1,0 +1,10 @@
+bouton 120 90 menutart
+sprites 1000 200 nom
+autres 800 100 nom
+music 100 100 nom
+bouton 900 10 menu_pause
+/*SCHEMA*/ hp xp level gold speed roll_speed sprite_path
+player 100 0 1 0 250 750 ./assets/player/player_spritesheet.png
+/*SCHEMA*/ (int)nb (float)time_between_spawn (int)range_vel_x (int)range_vel_y (float)gravity (int)range_spawn_x (int)range_spawn_y (char *)sprite_path (bool)loop (float)fade_scale (int)live_time
+particle_spawner 100 0.1 500 500 0 0 0.0 0 0 0 1080 ./assets/particle/wind.png 1 5.0 5
+shoper ./assets/shop/gun_smith_spritesheet.png

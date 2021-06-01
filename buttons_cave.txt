@@ -1,0 +1,19 @@
+nb_buttons 17
+/*SCHEMA*/ (float)pos (float)size (char *)sprites_path (int)index_function (bool)draw
+button 960.0 300.0 100.0 50.0 ./assets/in_game/resume.png ./assets/in_game/pause_over.png ./assets/in_game/pause_click.png 3 0
+button 960.0 510.0 100.0 50.0 ./assets/in_game/go_to_menu.png ./assets/in_game/pause_over.png ./assets/in_game/pause_click.png 4 0
+button 960.0 722.0 100.0 50.0 ./assets/in_game/quit.png ./assets/in_game/pause_over.png ./assets/in_game/pause_click.png 1 0
+button 1550.0 185.0 100.0 50.0 ./assets/in_game/inventory_click.png ./assets/in_game/inventory_over.png ./assets/in_game/inventory_over.png 12 0
+button 1612.0 185.0 100.0 50.0 ./assets/in_game/inventory_click.png ./assets/in_game/inventory_over.png ./assets/in_game/inventory_over.png 12 0
+button 1672.0 185.0 100.0 50.0 ./assets/in_game/inventory_click.png ./assets/in_game/inventory_over.png ./assets/in_game/inventory_over.png 12 0
+button 1550.0 247.0 100.0 50.0 ./assets/in_game/inventory_click.png ./assets/in_game/inventory_over.png ./assets/in_game/inventory_over.png 12 0
+button 1612.0 247.0 100.0 50.0 ./assets/in_game/inventory_click.png ./assets/in_game/inventory_over.png ./assets/in_game/inventory_over.png 12 0
+button 1672.0 247.0 100.0 50.0 ./assets/in_game/inventory_click.png ./assets/in_game/inventory_over.png ./assets/in_game/inventory_over.png 12 0
+button 1550.0 311.0 100.0 50.0 ./assets/in_game/inventory_click.png ./assets/in_game/inventory_over.png ./assets/in_game/inventory_over.png 12 0
+button 1612.0 311.0 100.0 50.0 ./assets/in_game/inventory_click.png ./assets/in_game/inventory_over.png ./assets/in_game/inventory_over.png 12 0
+button 1672.0 311.0 100.0 50.0 ./assets/in_game/inventory_click.png ./assets/in_game/inventory_over.png ./assets/in_game/inventory_over.png 12 0
+button 1550.0 372.0 100.0 50.0 ./assets/in_game/inventory_click.png ./assets/in_game/inventory_over.png ./assets/in_game/inventory_over.png 12 0
+button 1612.0 372.0 100.0 50.0 ./assets/in_game/inventory_click.png ./assets/in_game/inventory_over.png ./assets/in_game/inventory_over.png 12 0
+button 1672.0 372.0 100.0 50.0 ./assets/in_game/inventory_click.png ./assets/in_game/inventory_over.png ./assets/in_game/inventory_over.png 12 0
+button 1797.0 402.0 100.0 50.0 ./assets/in_game/inventory_click.png ./assets/in_game/inventory_over.png ./assets/in_game/inventory_over.png 12 0
+button 1612.0 457.0 100.0 50.0 ./assets/in_game/click_quest.png ./assets/in_game/over_quest.png ./assets/in_game/over_quest.png 13 0
